@@ -1,4 +1,3 @@
-👇
 
 🏥 Hospital Management System
 
@@ -12,7 +11,7 @@ Data storage and retrieval
 Simple and user-friendly interface
 🛠️ Technologies Used
 Python
-(Add this if you used it: Tkinter / Flask / Django / SQLite)
+tkinter
 🎯 Project Objective
 
 The goal of this project is to simplify hospital workflows by organizing data digitally and improving efficiency in managing hospital records.
@@ -24,14 +23,13 @@ Connect to advanced database (MySQL)
 Web-based version using Flask/Django
 📂 How to Run the Project
 # Clone the repository
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/Salaar-ahmad12/hospital-management-system.git
 
 # Go to project folder
-cd hospital-management-system
+cd Hospital-Management-System
 
 # Run the project
-python main.py
-👨‍💻 Author
+python GUI.py
 
 Your Name – Frontend & Python Developer
-Skilled in HTML, CSS, JavaScript, and Python
+Skilled in HTML, CSS, JavaScript, and 
